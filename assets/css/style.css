@@ -104,7 +104,7 @@ hr {
 h2 {
     font-size: 26px;
     font-weight: bold;
-    font-family: 'Courier', Times, 'Times New Roman', serif;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #4aaaa5;
     text-align: left;
 }
@@ -112,7 +112,7 @@ h2 {
 h3 {
     font-size: 22px;
     font-weight: bold;
-    font-family: 'Courier', Times, 'Times New Roman', serif;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #4aaaa5;
     text-align: center;
 }
