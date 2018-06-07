@@ -64,10 +64,18 @@
     "use strict";
     Object.defineProperty(t, "__esModule", {
         value: !0
-    }), t.name = "Casey Trahan", t.author = "Casey Trahan", t.domain = "https://casethebase.github.io/", t.version = "2.0.0", t.assetPath = "/assets/", t.analyticsId = "UA-108271494-1", t.previewSize = [2880, 1800], t.introduction = "I'm Casey Trahan, an aspiring developer from Austin who likes to bike, code, and game. I work across the full JavaScript stack, having experience in both the IT world and now Web Development as well. UT Full Stack Web Development Bootcamp - Class of 2018; Formerly BigCommerce, currently LogicMonitor Inc.", t.greetings = ["Konnichiwa", "Namaste", "Hello", "Salutations", "Hola", "Hey", "Greetings", "Hi"], t.social = [{
-        name: "LinkedIn",
+    }), t.name = "Casey Trahan", t.author = "Casey Trahan", t.domain = "https://casethebase.github.io/", t.version = "2.0.0", t.assetPath = "/assets/", t.analyticsId = "UA-108271494-1", t.previewSize = [2880, 1800], t.introduction = "I'm Casey Trahan, an aspiring developer from Austin who likes to bike, code, and game. I work across the full JavaScript stack, having experience in both the IT world and now Web Development as well. UT Full Stack Web Development Bootcamp - Class of 2018; Formerly BigCommerce, currently LogicMonitor Inc.", t.greetings = ["Konnichiwa", "Namaste", "Hello", "Salutations", "Hola", "Hey", "Greetings", "Hi"],    t.social = [{
+        name: "Twitter",
+        user: "nillbye",
+        link: "https://twitter.com/nillbye"
+    }, {
+        name: "Github",
+        user: "casethebase",
+        link: "https://github.com/casethebase"
+    }, {
+        name: "Stack Overflow",
         user: "Casey Trahan",
-        link: "https://www.linkedin.com/in/caseytrahan/"
+        link: "https://stackoverflow.com/users/9542296/casey-trahan"
     }]
 }, function(e, t, n) {
     "use strict";
@@ -1143,7 +1151,7 @@ t.default = s
                         n = new u.default(this.$about);
                     setTimeout(function() {
                         return t.$logo.classList.add("show")
-                    }, 1e3 * e), n.type("v" + s.version, {
+                    }, 1e3 * e), n.type("v" + "2.1", {
                         duration: .6,
                         cursor: "_",
                         delay: e
