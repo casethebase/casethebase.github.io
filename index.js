@@ -64,10 +64,10 @@
     "use strict";
     Object.defineProperty(t, "__esModule", {
         value: !0
-    }), t.name = "Casey Trahan", t.author = "Casey Trahan", t.domain = "https://casethebase.github.io/", t.version = "2.0.0", t.assetPath = "/assets/", t.analyticsId = "UA-108271494-1", t.previewSize = [2880, 1800], t.introduction = "I'm Casey Trahan, an aspiring developer from Austin who likes to bike, code, and game. I work across the full JavaScript stack, having experience in both the IT world and now Web Development as well. UT Full Stack Web Development Bootcamp - Class of 2018; Formerly BigCommerce, currently LogicMonitor Inc.", t.greetings = ["Konnichiwa", "Namaste", "Hello", "Salutations", "Hola", "Hey", "Greetings", "Hi"],    t.social = [{
-        name: "Twitter",
-        user: "nillbye",
-        link: "https://twitter.com/nillbye"
+    }), t.name = "Casey Trahan", t.author = "Casey Trahan", t.domain = "https://casethebase.github.io/", t.version = "2.0.0", t.assetPath = "/assets/", t.analyticsId = "UA-108271494-1", t.previewSize = [2880, 1800], t.introduction = "I'm Casey Trahan, Full Stack Web Developer with a passion for making websites and applications both functional and engaging. Strong creative and analytical skills. Team player with an eye for detail. Skilled and experienced with HTML, CSS, JavaScript, MySQL, MongoDB, Express, React, Node, Illustrator, Photoshop and Git. Formerly BigCommerce / Currently LogicMonitor, INC", t.greetings = ["Konnichiwa", "Namaste", "Hello", "Salutations", "Hola", "Hey", "Greetings", "Hi"],    t.social = [{
+        name: "LinkedIn",
+        user: "caseytrahan",
+        link: "https://www.linkedin.com/in/caseytrahan/"
     }, {
         name: "Github",
         user: "casethebase",
